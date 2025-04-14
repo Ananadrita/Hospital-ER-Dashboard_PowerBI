@@ -61,7 +61,7 @@ All KPIs are visualized with area sparklines and charts to highlight trends, ano
 
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
-- Microsoft Excel (for data source, if applicable)
+- Microsoft Excel (for data source)
 
 
 
